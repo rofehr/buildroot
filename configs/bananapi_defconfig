@@ -30,7 +30,7 @@ BR2_LINUX_KERNEL_CUSTOM_CONFIG_FILE="board/bananapi/linux-bananapi.config"
 
 # Bootloaders
 BR2_TARGET_UBOOT=y
-BR2_TARGET_UBOOT_BOARDNAME="bananapi"
+BR2_TARGET_UBOOT_BOARDNAME="Bananapi"
 BR2_TARGET_UBOOT_CUSTOM_GIT=y
 BR2_TARGET_UBOOT_VERSION="sunxi"
 BR2_TARGET_UBOOT_CUSTOM_REPO_URL="https://github.com/linux-sunxi/u-boot-sunxi.git"
